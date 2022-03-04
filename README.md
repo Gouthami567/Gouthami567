@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gouthami567
 - 👀 I’m interested in Machine Learning and AI
-- 🌱 I’m currently LSTM
+- 🌱 I’m currently learning LSTM models
 - 💞️ I’m looking to collaborate on machine learning projects
 - 📫 How to reach me gouthami.chandraiahshetty@gmail.com
 
